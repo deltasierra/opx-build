@@ -1,0 +1,6 @@
+---
+- name: opx
+  vmw_box: geerlingguy/ubuntu1604
+  vb_box: ubuntu/xenial64
+  ram: 512
+  vcpu: 2
